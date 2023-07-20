@@ -59,3 +59,8 @@ python3 manage.py runserver
 This command starts the Django development server, allowing you to access your project in a web browser.
 
 Please note that these instructions assume you are using a Debian/Ubuntu-based Linux distribution. If you are using a different distribution, some package manager commands may differ slightly.
+
+11. Create apps
+```
+python3 manage.py startapp appname
+```
